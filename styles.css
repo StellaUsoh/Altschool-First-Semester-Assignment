@@ -449,23 +449,15 @@ audio {
 }
 
 
-/* Default styles for all devices */
-body {
-    font-family: Arial, sans-serif;
-    
-}
+
 
 
 /* Styles for devices with a max width of 768px (tablets and smaller) */
 @media (max-width: 768px) {
-    body {
-        background-color: lightblue;
-    }
+   
 }
 
  /* Styles for devices with a max width of 480px (smartphones) */
  @media (max-width: 480px) {
-    body {
-        background-color: lightgreen;
+    
     }
-}
